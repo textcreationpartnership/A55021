@@ -1,0 +1,808 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The banquet of musick, or, A collection of the newest and best songs sung at court, and at publick theatres with a thorow-bass for the theorbo-lute, bass-viol, harpsichord, or organ / composed by several of the best masters ; the words by the ingenius wits of this age.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55021</idno>
+            <idno type="STC">Wing P2422</idno>
+            <idno type="STC">ESTC R181838</idno>
+            <idno type="EEBO-CITATION">12936173</idno>
+            <idno type="OCLC">ocm 12936173</idno>
+            <idno type="VID">95765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55021)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 286:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The banquet of musick, or, A collection of the newest and best songs sung at court, and at publick theatres with a thorow-bass for the theorbo-lute, bass-viol, harpsichord, or organ / composed by several of the best masters ; the words by the ingenius wits of this age.</title>
+                  <author>Playford, Henry, b. 1657.</author>
+               </titleStmt>
+               <extent>6 v. of music   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Jones for Henry Playford ...,</publisher>
+                  <pubPlace>In the Savoy :</pubPlace>
+                  <date>1688-1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Compiled by Henry Playford. Cf. DNB.</note>
+                  <note>"Licensed, Nov. 19, 1687. Rob. Midgley"</note>
+                  <note>Reproduction of original in Folger Library.</note>
+                  <note>Imperfect: vols. 2-6 lacking in filmed copy.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Songs, English --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95765:1"/>
+            <pb facs="tcp:95765:1" rendition="simple:additions"/>
+            <p>THE Banquet of MUSICK: <hi>OR,</hi> A Collection of the neweſt and beſt SONGS ſung at Court, and at Publick Theatres. <hi>WITH</hi> A THOROW-BASS for the <hi>Theorbo-Lute, Baſs-Viol, Harpſichord,</hi> or <hi>Organ.</hi>
+            </p>
+            <p>
+               <hi>Compoſed by ſeveral of the Beſt Maſters.</hi>
+            </p>
+            <p>The WORDS by the <hi>Ingenious Wits</hi> of this Age.</p>
+            <p>THE FIRST BOOK.</p>
+            <figure>
+               <byline>Gui: Vaughan Sculpi</byline>
+               <figDesc>a group of musicians play the harpsichord, viol and sing</figDesc>
+            </figure>
+            <p>LICENSED, <hi>Nov.</hi> 19. 1687. <hi>Rob. Midgley.</hi>
+            </p>
+            <p>
+               <hi>In the SAVOY:</hi> Printed by <hi>E. Jones,</hi> for <hi>Henry Playford,</hi> at his Shop near the <hi>Temple</hi> Church, 1688.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:95765:2"/>
+            <pb facs="tcp:95765:2" rendition="simple:additions"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving already publiſhed a COLLECTION of this nature, Entituled, <hi>The Theatre of M<g ref="char:V">Ʋ</g>SICK,</hi> containing many excellent SONGS, in four Books, I am encouraged to proceed to this ſecond Volume, called, <hi>The Banquet of M<g ref="char:V">Ʋ</g>SICK,</hi> whereof you are here preſented with the firſt Book; hoping that both this and the following will receive the ſame favourable Reception with the former, which will further encourage the Endeavours of</p>
+            <closer>
+               <signed>
+                  <hi>Your humble Servant,</hi> H. Playford.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:95765:3"/>
+            <head>A Table of the <hi>SONGS</hi> contain'd in this Book.</head>
+            <list>
+               <head>A</head>
+               <item>
+                  <hi>A</hi> Gentle Breeze from the <hi>Lavi<g ref="char:EOLhyphen"/>nian</hi> Sea, <hi>Page 2</hi>
+               </item>
+               <item>Ah, how ſweet it is to Reign! <hi>Page 25</hi>
+               </item>
+               <item>As in a verdent Willow Grove, <hi>Page 40</hi>
+               </item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>By what I've ſeen, I am undone, <hi>Page 4</hi>
+               </item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Great Son of Night! <hi>Page 34</hi>
+               </item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>How ſweet are the Youthful Adven<g ref="char:EOLhyphen"/>tures of Love! <hi>Page 1</hi>
+               </item>
+               <item>P. Here's to thee, <hi>Dick! Page 10</hi>
+               </item>
+               <item>How can they taſt of Joys or Grief! <hi>Page 30</hi>
+               </item>
+               <item>P. Has yet your Breaſt no Pity learn'd! (A Dialogue.) <hi>Page 36</hi>
+               </item>
+               <item>P. How pleaſant is this flowry Plain! <hi>Page 42</hi>
+               </item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>I lov'd you dearly once, 'tis true, <hi>Page 3</hi>
+               </item>
+               <item>I ſaw the Laſs whom dear I lov'd, <hi>Page 21</hi>
+               </item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>P. Now are we met, and Humours agree, <hi>Page 20</hi>
+               </item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>O how ſweetly Love invites! <hi>Page 22</hi>
+               </item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Pretty <hi>Armeda</hi> will be kind, <hi>Page 16</hi>
+               </item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Sum up all the Delights, P. <hi>Page 20</hi>
+               </item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>'Twas Night, and all the Village wrapp'd in Sleep, <hi>Page 5</hi>
+               </item>
+               <item>This troubleſom Journey of Life, <hi>Page 15</hi>
+               </item>
+               <item>This Poet ſings the <hi>Trojan</hi> Wars, P. <hi>Page 17</hi>
+               </item>
+               <item>Tell me, why your Face diſcloſes, <hi>Page 24</hi>
+               </item>
+               <item>Though our Town be deſtrow'd, <hi>Page 32</hi>
+               </item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>When Mony has done what e're it can, <hi>Page 8</hi>
+               </item>
+               <item>When Beauty, arm'd with ſmiling Eyes, <hi>Page 16</hi>
+               </item>
+               <item>Why ſhould ſhort-liv'd Mortals ſtrive, <hi>Page 28</hi>
+               </item>
+               <item>What Scorn appears in thoſe fair Eyes! <hi>Page 33</hi>
+               </item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>Ye Gods, you gave to me a Wife, <hi>Page 23</hi>
+               </item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A Brief <hi>Introduction</hi> to the Skill of <hi>MUSICK,</hi> both <hi>Vocal</hi> and <hi>Inſtrumental,</hi> by Mr. <hi>John Playford,</hi> is newly Reprinted with Additions; and ſold by <hi>Henry Playford,</hi> at his Shop near the <hi>Temple</hi> Church.</p>
+         </div>
+      </front>
+      <body>
+         <div type="song">
+            <pb n="1" facs="tcp:95765:3" rendition="simple:additions"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">H</seg>Ow ſweet are the youthful Adventures of Love! What pretty kind Sympathies mu╌tual╌ly move! How in a╌mo╌rous Mu╌ſick they each play their Parts, and make in their Minds a trans╌fu╌ſion of Hearts! Yet as ſtrange, and as va╌rious Pow'╌rs they have, when from Frowns, Sighs, and Smiles, is Bliſs, and a Grave. </p>
+            <byline>Mr. <hi>Alphonſo Marſh.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="2" facs="tcp:95765:4"/>
+            <byline>Mr. <hi>Snow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">A</seg> Gen╌tle Breeze from the <hi>La╌vi╌nian</hi> Sea, was gli╌╌ding o're the Coaſt of <hi>Si╌ci╌ly;</hi> when lull'd with ſoft Repoſe, a Pro╌ſtrate made, u╌pon her bended Arm had rais'd her Head: Her Soul was all tranquil and ſmooth with Reſt, like the har╌mo╌nious Slumbers of the Bleſt; wrapp'd up in ſi╌lence, in╌no╌cent ſhe lay, and preſs'd the Flow'rs with touch as ſoft as they. </p>
+            <pb n="3" facs="tcp:95765:4" rendition="simple:additions"/>
+            <lg n="2">
+               <head>II.</head>
+               <l>My Thoughts, in gentleſt Sounds, ſhe did impart,</l>
+               <l>Heighten'd by all the Graces of that Art;</l>
+               <l>And as I ſung, I graſp'd her yielding Thighs,</l>
+               <l>'Till broken Accents faulter'd into Sighs:</l>
+               <l>I kiſs'd, and wiſh'd, and forrag'd all her Store,</l>
+               <l>Yet wallowing in the Pleaſure, I was poor;</l>
+               <l>No kind Relief my Agonies could eaſe,</l>
+               <l>I groan'd, and curs'd Religious Cruelties.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The trembling Nymph all o're Confuſion lay,</l>
+               <l>Her melting Looks in ſweet diſorder play;</l>
+               <l>Her Colour varies, and her Breath's oppreſs'd,</l>
+               <l>And all her Faculties are diſpoſſeſs'd.</l>
+               <l>At laſt impetuouſly her Pulſes move,</l>
+               <l>She gives a mighty looſe to ſtifled Love;</l>
+               <l>Then murmurs in a ſoft Complaint, and cryes,</l>
+               <l>Alas! and thus in ſoft Convulſions dyes.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <byline>Mr. <hi>Snow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">I</seg> Lov'd you dearly once, 'tis true, but now thank Heav'n I'm free; and as my love was ſcorn'd by you, ſo you are now by me: In vain you do ex╌poſe your Charms, my Heart for to ſurpriſe; which is prepar'd for all A╌larms, and can with╌ſtand your Eyes. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Not all your feigned Sighs, nor Tears,</l>
+               <l>My Pity e're can move;</l>
+               <l>Who once gets free from beauteous Snares,</l>
+               <l>Is mad again to love:</l>
+               <l>No, <hi>Cloe,</hi> now my Heart's my own,</l>
+               <l>And ſo it ſhall remain;</l>
+               <l>I value not your Smile or Frown,</l>
+               <l>Your Favour or Diſdain.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="4" facs="tcp:95765:5"/>
+            <head>A. 2. Voc.</head>
+            <byline>Mr. <hi>Daniel Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">B</seg>Y what I've ſeen, I am un╌done, and would no longer By what I've ſeen, <hi>&amp;c.</hi> live; <hi>Strephon, Be╌lin╌da</hi>'s Heart has won, the Prize I ſaw her give: Or if be╌fore her Heart was his, ſhe gave it o're a╌gain; ſhe unconcern'd re╌ceiv'd the Bliſs, I lan╌guiſh to ob╌tain. I lan╌guiſh to ob╌tain.</p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Cruel <hi>Belinda!</hi> ceaſe to give</l>
+               <l>Thoſe looks, when I am by;</l>
+               <l>Cannot my Rival happy live,</l>
+               <l>Unleſs he ſee me dye?</l>
+               <l>If you delight to puniſh me,</l>
+               <l>I will no more complain;</l>
+               <l>But let not him my Torments ſee,</l>
+               <l>To glory in my Pain.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="5" facs="tcp:95765:5" rendition="simple:additions"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">T</seg>Was Night, and all the Vil╌lage wrap'd in Sleep, when Grief lay huſh'd, and Sor╌row could not weep; ev'n proud Am╌bi╌tion too in qui╌et lay, and peaceful Reſt did all the World ſurvey: On╌ly young <hi>Phi╌le╌mon,</hi> whoſe ſad Deſpair kept him a╌wake, and tor╌tur'd him with Care; as he up╌on a River's Bank was laid, and thus the me╌lan╌cho╌ly Shepherd ſaid: Break, foo╌liſh Heart, and grieve no more, thy Sorrows, Sorrows, are in vain; they
+<pb n="6" facs="tcp:95765:6"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> ne╌ver can thy Joys reſtore, but ſerve to feed, to feed, thy Pain: Thoſe Friends, who when thy Fortune ſhone, were al╌ways cour╌ting thee, now thou art poor, do thee diſown, and ſcorn, and ſcorn, thy Com╌pa╌ny, and ſcorn thy Com╌pa╌ny. Friendſhip is now be╌come a Trade, by Fortune bought, by Fortune bought, and ſold; a mere Self╌in╌te╌reſt is made, mo╌no╌po╌liz'd, mo╌no╌po╌liz'd by Gold: Death is the on╌ly cer╌tain Friend, for all the World, the World's a Cheat;
+<pb n="7" facs="tcp:95765:6" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> and he thy Mi╌ſe╌ries will end, tho' they, tho' they be ne're ſo great. Then farewel World, and worldly Joys, falſe Hope; falſe Hope, and vain Deſires; which Reaſon blinds, and Senſe de╌ſtroys, and on╌ly Pride, and on╌ly Pride, in╌ſpires. Since Virtue, Truth, and Ho╌ne╌ſty, are flown, and none but Fortune's Fools are in re╌queſt; no more I will my wret╌ched Fate bemoan, but on this Bank con╌ten╌ted e╌ver reſt. </p>
+            <byline>Mr. <hi>Daniel Purcell.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="8" facs="tcp:95765:7"/>
+            <head>A SONG to a Lyra Tune.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">W</seg>Hen Mony has done what e're it can, and round about run to pleaſure a Man, whoſe Life's but a ſpan; with worldly Joys, and the glitt'ring Toys, which do make ſuch a noiſe, as confound all advice, that's given by the Wiſe, and in a trice, reduce the Wretch to Miſe╌ries, and there do leave him. Then the World which be╌fore for his Store did a╌dore him, ſtreight ſeems afraid of one decay'd, and him upbraid of the Wealth, with each by's Trade, did be╌fore de╌ceive him; but when the Mor╌tal ſees his own un╌
+<pb n="9" facs="tcp:95765:7" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> do╌ing, finds his Acquaintance and Friends are all a go╌ing, then he ſighs and moans, and then he pines and groans; at laſt he craves, his Friends deny, at w<hi rend="sup">ch</hi> he raves, and ſwears, he'l dye, and thus he cries, He ne're was wiſe, un╌til in Mi╌ſe╌ry he dyes; and thus the wretched Spendthrift lyes, fare him well for evermore, <hi>Amen.</hi> 
+            </p>
+         </div>
+         <div type="song">
+            <pb n="10" facs="tcp:95765:8"/>
+            <head>A. 2. Voc. The Words by Mr. <hi>Cowley.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">H</seg>Ere, here's to thee <hi>Dick,</hi> this whi╌ning Love de╌Ere, here's to thee <hi>Dick,</hi> here, here's to thee ſpiſe; here, here's to thee <hi>Dick,</hi> this whining, whining Love deſpiſe; <hi>Dick,</hi> this whi╌ning Love deſpiſe, this whining, whi╌ning Love deſpiſe; pledge me, pledge me, my Friend, here, here's to thee <hi>Dick,</hi> pledge me, and drink, drink, till thou be'ſt pledge me, here's to thee <hi>Dick,</hi> pledge me, my Friend, pledge me, and drink, drink, till thou be'ſt wiſe: It ſparkles brigh╌ter far than ſhe, 'tis pure, 'tis pure, and right, without de╌wiſe: It ſparkles brigh╌ter far than ſhe, 'tis pure, 'tis pure, and right, without de╌ceit,
+<pb n="11" facs="tcp:95765:8" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> and ſuch, ſuch, no Woman e're will be, no, no, no, they're all ſo╌ceit; and ſuch, ſuch, no Woman e're will be, no, no, they're all ſo╌phiſticate, they're all, all, all, ſo╌phi╌ſti╌cate. With all thy ſervile pains, what phiſticate, they're all, all, all, ſo╌phi╌ſti╌cate. With all thy ſervile can'ſt thou win, with all thy ſervile pains, what can'ſt, what can'ſt, thou win, but an ill favour'd, pains, what can'ſt thou win, with all thy ſervile pains, what can'ſt thou win, but an ill favour'd, and un╌clean╌ly Sin? A thing, a thing, ſo vile, and ſo ſhort╌liv'd, that <hi>Venus</hi> Joys, as and un╌clean╌ly Sin? A thing ſo vile, ſo vile, and ſo ſhort╌liv'd, that <hi>Ve╌nus</hi> Joys, as
+<pb n="12" facs="tcp:95765:9"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> well as ſhe, with reaſon may be ſaid to be, from the neg╌le╌cted Foam deriv'd. well as ſhe, with reaſon may be ſaid to be, from the neg╌le╌cted Foam deriv'd. Follies they have, ſo numberleſs, in ſtore, that on╌ly he who loves them can have more; Follies they have, ſo num╌ber╌leſs, in ſtore, that on╌ly he who loves them can have more; neither their Sigh╌s, nor Tears, are true, thoſe id╌ly blow, theſe id╌ly fall; neither their Sigh╌s, nor Tears, are true, neither their Sigh╌s, nor Tears, are true, neither their Sigh╌s, nor Tears, are true, nothing like, nothing like to ours at thoſe id╌ly blow, theſe id╌ly fall; nothing like, nothing like to ours at
+<pb n="13" facs="tcp:95765:9" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> all, but Sighs and Tears, but Sighs and Tears, have Sex╌es too. Here's to thee a╌all, but Sighs and Tears, but Sighs and Tears, have Sex╌es too. Here's gain, here's to thee a╌gain, thy ſenſeleſs Sor╌rows drown'd; here's to thee, thy to thee a╌gain, here's to thee a╌gain, thy ſenſeleſs Sorrows drown'd, thy ſenſe╌leſs Sor╌rows drown'd, let the Glaſs walk, 'till all things too go ſenſe╌leſs Sor╌rows drown'd, let the rou╌nd, 'till all things too go rou╌Glaſs walk, 'till all things too go rou╌nd, 'till
+<pb n="14" facs="tcp:95765:10"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> ╌nd, 'till all things too go round: Again, again, again, again, 'till theſe two Lights be all, all things too go round: Again, again, again, again,
+'till theſe two Lights be four, no Er╌ror here can dan╌ge╌rous prove; thy Paſſion Man deceiv'd thee more, none four, no Er╌ror here can dan╌ge╌rous prove; thy Paſſion Man deceiv'd thee more, none dou—ble ſee, like Men in love; none dou—ble ſee, none dou—ble dou—ble ſee, none dou—ble ſee, like Men in love; none dou—ble ſee, like Men in love. ſee, like Men in love. </p>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="15" facs="tcp:95765:10" rendition="simple:additions"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">T</seg>His trou╌ble╌ſom Journey of Life I've be╌gun, and I know ve╌ry CHORUS. well how far I have run, but a╌las! cannot tell how ſoon 'twill be done. <hi>Then farewell to Then Care, to Care, then farewell to Care, Fear, Sorrow, and Trouble, and Love that makes all o╌ther farewell to Care, then farewell to Care, Fear, Sorrow, and Trouble, and Love that makes all other Mi╌ſe╌ries double, for I'le make the beſt and the moſt of this Bubble.</hi> Give me but in quiet a <hi>Mi╌ſe╌ries double, for I'le make the beſt and the moſt of this Bubble.</hi> competent Wealth, and ſometimes in private an a╌mo╌rous Stealth, with a Friend and a <hi>CHORUS as before.</hi> Bottle to drink the King's Health. </p>
+            <byline>Mr. <hi>John Roffey.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="16" facs="tcp:95765:11"/>
+            <byline>Mr. <hi>Snow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">P</seg>Retty <hi>Ar╌me╌da</hi> will be kind, when at her Feet you proſtrate lye; no cru╌el Looks was e're deſign'd, to dwell with╌in her charming Eye: Gaze on her Face, and ev'ry Part, that is ex╌po╌ſed to your view; you'l preſently conclude her Heart to be ſo ſoft, 'twill yield to you. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>But firſt 'tis fit you try your Skill,</l>
+               <l>You may not think that without pain;</l>
+               <l>And ſome Attendance on her Will,</l>
+               <l>So rich a Prize you ſhall obtain:</l>
+               <l>Wooing's like Angling-Men, muſt wait</l>
+               <l>Woman's time, and give them play,</l>
+               <l>'Till ſhe has ſwallow'd well the Bate,</l>
+               <l>Before ſhe will become his Prey.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>What tho' <hi>Armeda</hi>'s Looks be kind,</l>
+               <l>And you read Yielding in her Eyes;</l>
+               <l>Yet you, alas! may quickly find,</l>
+               <l>Thoſe Charms do nought but tantalize:</l>
+               <l>Her Heart may not ſo eaſie be</l>
+               <l>As you imagin, but may prove</l>
+               <l>As hard as Adamant to thee,</l>
+               <l>And proof againſt thy Darts of Love.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Your Skill, and all the Art you have,</l>
+               <l>Make Tryal of Sir, if you pleaſe;</l>
+               <l>Tell her, you are her Captive Slave,</l>
+               <l>And beg of her Relief and Eaſe:</l>
+               <l>But ſhe'l not hear you, for ſhe ſpies</l>
+               <l>That underneath your guilded Bate;</l>
+               <l>A crafty Hook incloſed lyes,</l>
+               <l>So from your Angle ſhe'l retreat.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="17" facs="tcp:95765:11" rendition="simple:additions"/>
+            <head>
+               <hi>ANACREON</hi>'s Defeat. [The Notes with this Mark * over them, are to be ſung Demiquavers.]</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">T</seg>His Poet ſi╌ngs the <hi>Tro╌jan</hi> Wars, a╌no╌ther of the <hi>Theban</hi> jarrs, in rat╌ling Numbers, in rat╌╌ling Numbers, Verſe that da╌res; this Poet ſi╌ngs the <hi>Tro╌jan</hi> Wars, a╌no╌ther of the <hi>The╌ban</hi> jarrs, in rat╌ling Numbers, in rat╌ling Numbers, Verſe that dares. Whil'ſt I in ſoft and hum╌ble Verſe, my
+<pb n="18" facs="tcp:95765:12"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> own, my own cap╌ti╌vi╌ties rehearſe; whil'ſt I in ſoft; in ſo╌ft, and hum╌ble Verſe, my ow╌n Cap╌ti╌vi╌ties rehearſe; I ſing my own Defeats, which are not the Events of Common War; I ſing my own De╌feats, which are not the Events of Common War, which are not the Events of Common War: Not Fleets at Sea have vanquiſh'd me, nor Brigadeers, nor Cavalry, nor Ranks and Files, nor Ranks and Files, of In╌fan╌try; not Fleets at Sea have
+<pb n="19" facs="tcp:95765:12" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> vanquiſh'd me, nor Bri╌ga╌deers, nor Ca╌val╌ry, nor Ranks and Files, nor Ranks and Files, of In╌fan╌try: No, no, no, no, no, no, no, no, no, no, no, no, <hi>A╌na╌cre╌on</hi> ſtill de╌fies, all, all, your Ar╌til╌le╌ry Companies; ſave thoſe encamp'd in kil╌ling, kil╌ling Eyes, each Dart his Miſtreſs ſhoots, he dyes, each Dart his Miſtreſs ſhoots, he dyes. </p>
+            <byline>Mr. <hi>Henry Purcell.</hi> 
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="20" facs="tcp:95765:13"/>
+            <head>
+               <hi>A.</hi> 3. <hi>Voc. (A Catch.)</hi> Mr. <hi>Henry Purcell.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">S</seg>Um up all the Delights, ſum up all, all, ſum up all the Delights the World does produce, the darling Allurements now chiefly in uſe; you'l find, when compar'd, there's none can contend, with the ſo╌lid Enjoyment of Bot╌tle and Friend: For Honour, or Wealth, or Beauty, may waſte, thoſe Joys often fade, but rarely do laſt; they're ſo hard to at╌tain, and ſo ea╌ſi╌ly loſt, that the Pleaſure ne're an╌ſwers the Trouble and Coſt. None like Wine, none like Wine, and true Friendſhip, are laſting and ſure, from Jealouſie free, and from En╌vy ſecure; then fill up the Glaſſes until they run o're, a Friend and good Wine are the Charms we a╌dore.</p>
+         </div>
+         <div type="song">
+            <head>
+               <hi>A.</hi> 3. <hi>Voc. (A Catch.)</hi> Mr. <hi>Henry Purcell.</hi>
+            </head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">N</seg>Ow, now we are met, and Humours agree, call, call for Wine, and loſe no Time, but let's merry be; fill, fill it about to me, let it come, fill the Glaſs to the top, I'le drink ev'ry drop, <hi>Su╌per╌na╌cu╌lum:</hi> A Health to the King, round, round, let it paſs, fill it up, and then drink it off like Men, never baulk your Glaſs.</p>
+         </div>
+         <div type="song">
+            <pb n="21" facs="tcp:95765:13" rendition="simple:additions"/>
+            <byline>Mr. <hi>Snow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">I</seg> Saw the Laſs whom dear I lov'd, long ſigh╌ing, and complai╌ning; while me ſhe ſhunn'd and diſ╌ap╌prov'd, a╌no╌ther en╌ter╌tai╌ning: Her Hand, her Lip, to him were free, no fa╌vour ſhe re╌fus'd him; judge how unkind ſhe was to me, while ſhe ſo kind╌ly us'd him! </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>His Hand her milk-white Bubby preſs'd,</l>
+               <l>A Bliſs worth Kings deſiring;</l>
+               <l>Ten thouſand times he kiſs'd her Breaſt,</l>
+               <l>The Snow amounts admiring:</l>
+               <l>While pleas'd to be the Charming Fair,</l>
+               <l>That to ſuch Paſſion mov'd him;</l>
+               <l>She clapp'd his Cheeks, and curl'd his Hair,</l>
+               <l>To ſhew, ſhe well approv'd him.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>The killing Sight my Soul inflam'd,</l>
+               <l>And ſwol'n my Heart with Paſſion;</l>
+               <l>Which, like my love, could not be tam'd,</l>
+               <l>Nor had Conſideration:</l>
+               <l>I beat my Breaſt, and tore my Hair,</l>
+               <l>On my hard Fate complaining;</l>
+               <l>That plung'd me into deep Deſpair,</l>
+               <l>Becauſe of her diſdaining.</l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Ah, cruel <hi>Moggy!</hi> then I cry'd,</l>
+               <l>Will not my Sorrows move you?</l>
+               <l>Or if my Love muſt be deny'd,</l>
+               <l>Yet give me leave to love you:</l>
+               <l>And then frown on, and ſtill be coy,</l>
+               <l>Your conſtant Swain deſpiſing,</l>
+               <l>For 'tis but juſt you ſhould deſtroy</l>
+               <l>What is not worth your prizing.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="22" facs="tcp:95765:14"/>
+            <byline>Mr. <hi>Snow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">O</seg>H how ſweetly Love invites! How tranſporting his Delights! A thouſand Joys a╌bout him skip, a thouſand Cu╌pids on one Lip; his Chains are Love╌knots, that doth tye, com╌bi╌ning Souls by ſym╌pa╌thy: Ri╌go╌rous Torments he makes ea╌ſie, and deſpairs him╌ſelf to pleaſe ye. Ev'╌ry Sigh a Pleaſure moves, like the Groans of kiſ╌ſing Doves; ev'╌ry Sigh a Pleaſure moves, like the Groans of kiſſing Doves. </p>
+            <lg n="2">
+               <pb n="23" facs="tcp:95765:14" rendition="simple:additions"/>
+               <head>II.</head>
+               <l>His Empire's all compos'd of Charms,</l>
+               <l>With joy we truckle to his Arms;</l>
+               <l>For thoſe he kills, he ſtill compoſes</l>
+               <l>Beds of Honour, and of Roſes:</l>
+               <l>Thus they unfortunate become,</l>
+               <l>Enamour'd of their Martyrdom.</l>
+            </lg>
+            <lg>
+               <l>
+                  <expan>
+                     <am>
+                        <g ref="char:vocaljoin"/>
+                     </am>
+                     <ex>vocal join</ex>
+                  </expan>Rigorous Torments he makes eaſie,</l>
+               <l>And deſpairs himſelf to pleaſe ye.</l>
+               <l>Ev'ry Sigh a Pleaſure moves,</l>
+               <l>Like the Groans of kiſſing Doves;</l>
+               <l>
+                  <expan>
+                     <am>
+                        <g ref="char:vocaljoin"/>
+                     </am>
+                     <ex>vocal join</ex>
+                  </expan>Ev'ry Sigh a Pleaſure moves,</l>
+               <l>Like the Groans of kiſſing Doves.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <byline>Mr. <hi>Snow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">Y</seg>E Gods, you gave to me a Wife, out of your wonted favour, to be the Com╌fort of my Life, and I was glad to have her: But if your Provi╌dence divine, for ſomething elſe de╌ſign her; t'obey your will at a╌ny time, I'm rea╌dy to reſign her. </p>
+         </div>
+         <div type="song">
+            <pb n="24" facs="tcp:95765:15"/>
+            <byline>Mr. <hi>Samuel Akeroyde.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">T</seg>Ell, tell me, why your Face diſ╌clo╌ſes flaming Bluſhes, when I ſay, Thour't young as <hi>A╌pril,</hi> freſh as <hi>May,</hi> and ſweet as <hi>June</hi>'s firſt budding Roſes? Why when I but name my Paſſion, ſhould the Lil╌lies diſ╌ap╌pear? Why takes the Blood ſuch quick poſ╌ſeſ╌ſion, planting bright Car╌na╌tions there? </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Say why thy Cheeks are thus unfolding</l>
+               <l>Theſe new Charms, whilſt humbly I</l>
+               <l>The old in Rapture am beholding,</l>
+               <l>With wonder gaze, and gazing dye:</l>
+               <l>If budding Charms are ſo ſurprizing,</l>
+               <l>What muſt full-blown Roſes do?</l>
+               <l>Like Morning Sun in Crimſon riſing,</l>
+               <l>Painting the Hemiſphere anew.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="25" facs="tcp:95765:15" rendition="simple:additions"/>
+            <byline>Mr. <hi>John Baniſter.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">A</seg>H! how ſweet it is to Reign! how delightful 'tis to ſee the begging Eye, and bended Knee! to hear the Gilded Palace ring, with Praiſes of the King! Kings are Gods, and from the lofty Throne, on all the reſt of Men look down, all bow to them, but they ſubmit to none; with Frowns they kill, and with a Smile more raviſhing Delights they move, than all the fading Sweets of Love. Pleaſure, and Treaſure, and Beauty, are theirs, to ſweeten their Cares; all Nature gives, or Art can find, to pleaſe the Senſe, and eaſe the Mind; the Gods for Monarchs did ordain, ah, how ſweet it is to Reign! </p>
+         </div>
+         <div type="song">
+            <pb n="26" facs="tcp:95765:16"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">W</seg>Hen Beauty, arm'd with ſmiling Eyes, and in betraying Features dreſt; for wand'ring Hearts in Am╌buſh lyes, ſhe beats the Valiant, cheats the Wiſe, and gains a Throne in ev'╌ry Breaſt: To ſo ma╌ny bright forms ſhe al╌ters her ſhape, no God, nor no He╌ro, can e╌ver eſcape. Who pleaſing Looks, and Mirth, diſdain, ſhe wounds with more Ma╌je╌ſtick Art; and where the haughty Men prove vain, ſuch Pear╌ly ſhow'rs of Tears ſhe'l rain, as can diſ╌ſolve the hardeſt Heart: So
+<pb n="27" facs="tcp:95765:16" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> deep is her Cunning, ſo ſweet is her Stroke, that all muſt be ſubject to Beauties ſoft Yoke. But, ah! how ſweet 'tis to poſſeſs, the ſecret Wiſhes Beauty move; the Joys no Language can ex╌preſs, nor a╌ny wretched Mor╌tals gueſs, that has not try'd ſuc╌ceſs╌ful Love. Such Raptures of Pleaſure from Beauty proceed, that none but True Lovers are happy indeed. </p>
+            <byline>Mr. <hi>John Baniſter.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="28" facs="tcp:95765:17"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">W</seg>HY ſhould ſhort╌liv'd Mortals ſtrive to gain, gilded Cares, and glorious Pain?
+'Tis not Pow'r's bound—leſs ſway, nor all the Guards that wait up—on a <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>glitt'ring Throne, can drive in—tru—ding Care away: Wiſdom's ſacred Hand can bind, the <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>ra—ging Paſſions of the Mind; he that has at—tain'd to that, is the Em—pe- <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>rour of Fate. Rough Tempeſts that make Kingdoms roul, a—gainſt his Breaſt in <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>vain do beat; they cannot ſhake his fix—ed Soul, but muſt, like vanquiſh'd Waves, retreat. <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <pb n="29" facs="tcp:95765:17" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> No reſt╌leſs Wiſh, no trem╌bling Fear, or fierce Deſpair, can en╌ter there; vain Love, cold Death, or ha╌ſty Time, have nei╌ther Darts, nor Wings for him: When Life for╌ſakes his qui╌et Breaſt, he does but change his place of Reſt, 'tis he, 'tis he a╌lone is bleſt, 'tis he, 'tis he a╌lone is bleſt.</p>
+            <byline>Mr. <hi>John Baniſter.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="30" facs="tcp:95765:18"/>
+            <byline>The Words by Mr. <hi>John How.</hi> Set by Mr. <hi>James Hart.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">H</seg>Ow can they taſt of Joys or Grief, who Beauty's Pow'r did never prove? Love's all our Torment, our Relief, our Fate depends alone on Love: Were I in heavy Chains confin'd, <hi>Neaera</hi>'s Smiles would eaſe that State; nor Wealth, nor Pow'r, could bleſs my Mind, curs'd by her Abſence, or her Hate. Of all the Plants which ſhade the Field, the fragerant Myr╌til does ſurpaſs; no Flow'r ſo gay, that does not yield, to blooming Roſes gau╌dy Dreſs: No Star ſo bright that can be ſeen, when <hi>Phoebus</hi> Glories gild the Skies; no
+<pb n="31" facs="tcp:95765:18" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Nymph ſo proud a╌dorns the Green, but yields to fair <hi>Ne╌ae╌ra</hi>'s Eyes. The a╌mo╌rous Swain no Off'╌rings bring, to <hi>Cu╌pid</hi>'s Al╌tar as be╌fore; to her they play, to her they ſing, and own in Love no o╌ther Pow'r: If thou thy Empire wilt regain, on thy Conquerour try thy Dart; touch with pi╌ty for my Pain <hi>Ne╌ae╌ra</hi>'s cold diſ╌dain╌ful Heart. </p>
+         </div>
+         <div type="song">
+            <pb n="32" facs="tcp:95765:19"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">T</seg>Hough our Town be deſtroy'd, ſince our ſelves we en╌joy, where e're we reſide, we make a new <hi>Troy;</hi> when mer╌ry in one place, our Minds compaſs <hi>CHORUS.</hi> all, thus Man's the great World, and the Globe's but the ſmall. Then drink our Veins full, and while Wa╌ters glide a╌bout the dull Earth, let Wine be our Tide; then drink our Veins full, and while Wa╌ters glide a╌bout the dull Earth, glide a╌bout the dull Earth, let Wine be our Tide. </p>
+            <byline>Dr. <hi>John Blow.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="33" facs="tcp:95765:19" rendition="simple:additions"/>
+            <byline>Mr. <hi>Daniel Purcell.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">W</seg>Hat Scorn appears in thoſe fair Eyes, where na╌tive Sweetneſs us'd to flow? If your A╌do╌rer you deſpiſe, on whom will you your Love beſtow? Ah! let not your ſevere Diſdain kill him, who lives alone for you; in╌glo╌rious Conqueſts they obtain, who mur╌der Slaves they firſt ſubdue. </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Welcom to thirſty Fields kind Show'rs,</l>
+               <l>To chearful Birds the Morning Light;</l>
+               <l>Returning Suns to with'ring Flow'rs,</l>
+               <l>To me the charming <hi>Caelia</hi>'s Sight:</l>
+               <l>The Floods againſt their Streams may run,</l>
+               <l>The Gods may ceaſe to be obey'd;</l>
+               <l>But think not, cruel Nymph! your Scorn</l>
+               <l>Can quench the Flames your Eyes have made.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb n="34" facs="tcp:95765:20"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">G</seg>Reat Son of Night! come from thy <hi>Ebon</hi> Cell, where ſof╌teſt Slumbers do delight to dwell; with wreath of Poppies bound about thy Head, make haſt, and bring my trou╌bled Thoughts to Bed; with wreaths of Poppies bound a╌bout thy Head, make haſt, and bring my trou╌bled Thoughts to Bed. Some ſweet De╌lu╌ſion, gentle Sleep! deviſe, to draw the frin╌ged Curtains of mine Eyes; before I am╌a╌ware, my reſt╌leſs
+<pb n="35" facs="tcp:95765:20" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Mind implores thine aid, with ſilken Cords to bind my ſcat╌ter'd Sen╌ſes with thy migh╌ty Hand, and charm them gent╌ly And charm them gent╌ly with with thy Leaden Wand; and char╌m them gently, charm them gently thy Leaden Wand; charm them gent╌ly, charm them gent╌ly, with thy with thy Leaden Wand. Lea╌den Wand.</p>
+            <byline>Mr. <hi>James Hart.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="36" facs="tcp:95765:21"/>
+            <head>A Dialogue betwixt STREPHON and DORINDA.</head>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap>
+               <hi>Strephon.</hi> 
+               <seg rend="decorInit">H</seg>AS yet your Breaſt no Pi╌ty learn'd! <hi>Dorinda,</hi> muſt I ſi╌gh in vain! The liſt'ning Herd ſeem more concern'd, when of your Ri╌gour I complain. <hi>Dorinda.</hi> Beguiling Shepherd! with ſuch Art, the ſub╌tle Poiſon you inſtill; no Antidote <hi>Strephon.</hi> ſe╌cures the Heart, ſuch migh╌ty force it has to kill. I bring no Weapons to de╌ſtroy, but tender Wounds for you to cure; ſuch Wounds as muſt your Care employ, no
+<pb n="37" facs="tcp:95765:21" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <hi>Dorinda.</hi> rough╌er Hand they can endure. Forbear, forbear, pray tempt no more! My Heart I feel almoſt undone; and can no more, no more oppoſe that Pow'r, that Pow'r, <hi>Strephon.</hi> which has ſuch Conqueſt won. <hi>Dorinda,</hi> you the Conqu'ror are, here I for your Protection <hi>Dorinda.</hi> ſue; and as your Pris'ner took in War, ſome Mercy challenge as my due. I can no mo╌╌re reject your Pray'r, <hi>Strephon,</hi> for Heav'n╌ſake conſtant prove! My Breaſt ſhall bury all your Care, and kind╌ly en╌ter╌tain your Love. <hi>CHORUS.</hi>
+               <pb n="38" facs="tcp:95765:22"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <hi>CHORUS.</hi> So thoſe bright Eyes which do the Tempeſt raiſe, with one kind Look the an╌So thoſe bright Eyes which do the Tem╌peſt raiſe, with one kind Look the an╌gry Storms appeaſe, and ſave poor ſin╌king Lo╌vers from the Seas. gry Storms appeaſe, and ſave poor ſin╌king Lo╌vers from the Seas. Painters, henceforward with your skil╌ful Arts, draw Beauty with one Eye a Painters, henceforward with your skil╌ful Arts, draw Beauty with ſhoo╌ting Darts, the o╌ther wee╌ping, the o╌ther wee╌ping o╌one Eye a ſhoo╌ting Darts, the other wee╌ping, weeping o╌
+<pb n="39" facs="tcp:95765:22" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> ver wounded Hearts: Painters, henceforward with your skil╌ful Arts, draw ver wounded Hearts: Painters, henceforward with your skil╌ful Arts, Beauty with one Eye a ſhoo╌ting Darts, the other weeping, the other draw Beauty with one Eye a ſhoo╌ting Darts, the other weeping, weeping o╌ver wounded Hearts. weeping o╌ver wounded Hearts. </p>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+         </div>
+         <div type="song">
+            <pb n="40" facs="tcp:95765:23"/>
+            <byline>Mr. <hi>Snow.</hi>
+            </byline>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">A</seg>S in a ver╌dent wil╌low Grove, for ſligh╌ted Lo╌vers meant, <hi>Syl╌van╌der</hi> raving of his Love, thus gave his Paſſion vent: Is there no ju╌ſter Laws above, ye Gods, than to cre╌ate, in poor <hi>Syl╌van╌der</hi> ſo much Love, in <hi>Daph╌ne</hi> ſo much Hate! </p>
+            <lg n="2">
+               <head>II.</head>
+               <l>Alas! (he cry'd,) my Angel's gone,</l>
+               <l>The lovely fair one's fled,</l>
+               <l>And's left me here forlorn, undone,</l>
+               <l>What more can Mortals dread?</l>
+               <l>And my Condition now is worſe</l>
+               <l>Than if I'd ne're been bleſt,</l>
+               <l>Privation, the Apoſtate's Curſe,</l>
+               <l>Does wrack my tortur'd Breaſt.</l>
+            </lg>
+         </div>
+         <div type="symphony">
+            <pb n="41" facs="tcp:95765:23" rendition="simple:additions"/>
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <hi>SYmphony for FL<g ref="char:V">Ʋ</g>TES.</hi>
+               <pb n="42" facs="tcp:95765:24"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+            </p>
+         </div>
+         <div type="song">
+            <p>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <seg rend="decorInit">H</seg>OW plea╌ſant is this flow╌ry Plain and Grove! What perfect Scenes of In╌no╌cence and Love! As if the Gods, when all things here below were curs'd, reſerv'd this place, to let us know, how beau╌ti╌ful the World at firſt was
+<pb n="43" facs="tcp:95765:24" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> made, e're Mankind by Am╌bi╌tion was be╌tray'd. The hap╌py Swain in theſe e╌na╌mell'd Fields, poſſeſſes all the Good, poſſeſſes all, all the Good, that Plenty yields; pure without mixture, as it firſt did come, from the great Treaſury of Nature's Womb; free from Diſturbance here he lives at eaſe, contented with a little Flock's encreaſe, and cover'd with the gen╌tle Wings of Peace. No Fears, no Storms of War his Thoughts mo╌leſt, Ambition is a Stranger to his Breaſt; his Sheep, his Crook, and Pipe, are all his
+<pb n="44" facs="tcp:95765:25"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Store, he needs not, neither does he covet more. Oft to the ſi╌lent Groves he does re╌treat, whoſe Shades de╌fend him from the ſcor╌ching Heat: In theſe Re╌ceſ╌ſes un╌con╌cern'd he lyes, whilſt through the Boughs the whiſp'╌ring <hi>Zephire</hi> flies, and the Woods Choriſters on ev'ry Tree, lull him aſleep, lull him aſleep, with their ſwee╌t Harmony. <hi>CHORUS. CHORUS.</hi>
+               <pb n="45" facs="tcp:95765:25" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> 
+               <hi>CHORUS. CHORUS. CHORUS.</hi> Ah happy, happy, happy Life! Ah happy, happy, happy, ah hap╌py Life! Ah bleſt Re╌<hi>CHORUS.</hi> Ah happy, happy, happy Life! Ah happy, happy, happy, ah hap╌py Life! Ah bleſt Re╌<hi>CHORUS.</hi> treat, void of the Troubles, the Troubles, that attend the Great! From Pride, and courtly Fol╌lies, treat, void of the Troubles, the Troubles, that attend the Great! From Pride, and courtly Follies,
+<pb n="46" facs="tcp:95765:26"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> free, from all their gaudy, gau╌dy Pomps, and va╌ni╌ty: No guilty Re╌free, from all their gau╌dy Pomps, and Va╌ni╌ty: No guilty Re╌morſe does their Pleaſure annoy, nor diſturb the Delights of their in╌no╌cent Joy. Crown'd morſe does their Pleaſure an╌noy, nor diſturb the Delights of their in╌no╌cent Joy.
+<pb n="47" facs="tcp:95765:26" rendition="simple:additions"/>
+               <gap reason="music">
+                  <desc>〈♫〉</desc>
+               </gap> Monarchs, whom Cities and Kingdoms o╌bey, whom Cities and Kingdoms obey; are not Crown'd Monarchs, whom Cities and Kingdoms o╌bey, whom Kingdoms obey, are not half ſo contented, are not half ſo contented, or happy as they. half ſo contented, are not half ſo contented, or happy as they. </p>
+            <byline>Mr. <hi>Henry Purcell.</hi>
+            </byline>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
